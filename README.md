@@ -1,2 +1,3 @@
 # Codility-Answers
-The answers to codility website tasks
+My answers to codility.com tasks
+<https://codility.com/programmers/lessons/>
